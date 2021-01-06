@@ -5,6 +5,8 @@ Unofficial Tensorflow implementation of the [paper](https://dl.acm.org/doi/abs/1
 This project only train and test on LFW dataset. I don't varify the effectiveness on other Dataset. 
 Please contact me if you have any questions.
 
+Just for fun.
+
 # Model Detail
 ![results](https://github.com/CoderAnn/GLCI/introduction/model.png)
 
