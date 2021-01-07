@@ -1,4 +1,4 @@
-???
+????
 # Globally and Locally Consistent Image Completion
 
 Unofficial Tensorflow implementation of the [paper](https://dl.acm.org/doi/abs/10.1145/3072959.3073659), which proposed a idea that completing image by two discriminator. If you want to read the paper detailly, you can find it in my project and the name is [completion_sig2017(1).pdf](https://github.com/CoderAnn/GLCI/introduction/completion_sig2017(1).pdf).
